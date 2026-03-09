@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ravishankar Singh
 
-<!--
-**Ravi-econ/Ravi-econ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MA Economics student interested in development economics, labor economics, and empirical research.
 
-Here are some ideas to get you started:
+I use GitHub to document research workflows, data cleaning pipelines, replication exercises, and coding projects in:
+- R
+- Stata
+- Python
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+I am currently building skills and projects in:
+- data cleaning and management
+- empirical analysis
+- reproducible research workflows
+- applied economics research
+
+## Research Interests
+- Development economics
+- Labor economics
+- Public policy
+- Applied econometrics
+
+## Purpose of This GitHub
+This profile will contain:
+- research and coursework projects
+- replication work
+- data analysis scripts
+- organized code for academic and policy-related work
